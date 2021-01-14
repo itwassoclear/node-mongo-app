@@ -13,7 +13,7 @@ SPA приложение для создания и удаления задач.
 
 ## Что использовалось для разработки
 
-MongoDG, Express, стили Materialize
+MongoDB, Express, стили Materialize
 
 ## Настройка сборки
 
